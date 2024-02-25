@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kento980037/sharing-photo-api#readme",
   "dependencies": {
     "apollo-server": "^3.13.0",
-    "graphql": "^16.8.1"
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.0"
   }
 }
