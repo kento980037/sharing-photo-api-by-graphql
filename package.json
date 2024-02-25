@@ -1,0 +1,21 @@
+{
+    "name": "sharing-photo-api",
+    "version": "1.0.0",
+    "description": "[初めてのGraphQL](https://www.oreilly.co.jp/books/9784873118932/) のハンズオンリポジトリ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kento980037/sharing-photo-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/kento980037/sharing-photo-api/issues"
+    },
+    "homepage": "https://github.com/kento980037/sharing-photo-api#readme"
+  }
+  
